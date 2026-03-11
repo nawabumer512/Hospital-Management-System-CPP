@@ -34,4 +34,4 @@ A C++ console application to manage hospital patient records.
 
 ## Author
 Muhammad Umar Farooq
-National University of Computer and Emerging Sciences
+( National University of Computer and Emerging Sciences )
